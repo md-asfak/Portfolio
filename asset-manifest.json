@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.b5f99f7a.css",
+    "main.js": "/Portfolio/static/js/main.1f6a0c0e.js",
+    "static/js/787.9cb6ef40.chunk.js": "/Portfolio/static/js/787.9cb6ef40.chunk.js",
+    "static/media/project7.png": "/Portfolio/static/media/project7.77af5555e5cd165a9999.png",
+    "static/media/project3.png": "/Portfolio/static/media/project3.9de55fcad3af897f05ef.png",
+    "static/media/project6.png": "/Portfolio/static/media/project6.90656c26be27946222d6.png",
+    "static/media/project4.png": "/Portfolio/static/media/project4.ef6aac705c85b8c79096.png",
+    "static/media/project5.png": "/Portfolio/static/media/project5.b8ed0220267a37ed5207.png",
+    "static/media/project9.png": "/Portfolio/static/media/project9.baa6111b0d1a24bd76c3.png",
+    "static/media/md_ashfak.jpeg": "/Portfolio/static/media/md_ashfak.fb725343d33d3a3b29bc.jpeg",
+    "static/media/project1.png": "/Portfolio/static/media/project1.d6ccb1fc07fa91ce6975.png",
+    "static/media/project8.png": "/Portfolio/static/media/project8.2c32fac1ae5e3106ad86.png",
+    "static/media/Project2.png": "/Portfolio/static/media/Project2.6c068a7b34675dab83cd.png",
+    "index.html": "/Portfolio/index.html",
+    "main.b5f99f7a.css.map": "/Portfolio/static/css/main.b5f99f7a.css.map",
+    "main.1f6a0c0e.js.map": "/Portfolio/static/js/main.1f6a0c0e.js.map",
+    "787.9cb6ef40.chunk.js.map": "/Portfolio/static/js/787.9cb6ef40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5f99f7a.css",
+    "static/js/main.1f6a0c0e.js"
+  ]
+}
